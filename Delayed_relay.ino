@@ -6,11 +6,11 @@
 // #include <string>
 // #include <iostream>
 
-#define WIFI_SSID "Androidi"
-#define WIFI_PASSWORD "androidi"
+#define WIFI_SSID "WifiName"
+#define WIFI_PASSWORD "WifiPass"
 #define NTP_SERVER "id.pool.ntp.org"
-#define BOT_TOKEN "5550249778:AAFpzax3l8uGVdp9-6gh2Nl9gFERVN4AEEE"
-#define GScriptId "AKfycbzRAJ_gDSeubQa9l_xqv25kB9xFUOI9_ygU332yrckBgHQSd6LnRrEJmhr47buj6uM"
+#define BOT_TOKEN "BotToken"
+#define GScriptId "GooglescriptId"
 
 // Google Sheets setup (do not edit)
 #define host "script.google.com"
